@@ -36,7 +36,7 @@ od = OrderedDict([('a', 1), ('b', 2), ('c', 3)])
 print(d)
 print(od)
 
-# Counter 是一个简单的计数器
+# Counter是一个简单的计数器
 from collections import Counter
 
 counter = Counter()
