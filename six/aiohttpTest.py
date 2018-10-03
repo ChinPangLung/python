@@ -2,14 +2,17 @@ import asyncio
 
 from aiohttp import web
 
+
 async def index(request):
     await asyncio.sleep(0.5)
     return web.Response(body='<h1>Index</h1>'.encode(), content_type='text/html')
 
+
 async def hello(request):
     await asyncio.sleep(0.5)
     text = '<h1>hello, %s!</h1>' % request.match_info['name']
-    return web.Response(body=text.encode('utf-8'),content_type='text/html')
+    return web.Response(body=text.encode('utf-8'), content_type='text/html')
+
 
 async def init(loop):
     app = web.Application(loop=loop)
@@ -19,6 +22,8 @@ async def init(loop):
     print('Server started at http://127.0.0.1:8000...')
     return srv
 
+
+# aiohttp的初始化函数init()也是一个coroutine，loop.create_server()则利用asyncio创建TCP服务。
 loop = asyncio.get_event_loop()
 loop.run_until_complete(init(loop))
 loop.run_forever()
