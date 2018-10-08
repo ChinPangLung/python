@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8ab1790-88fa-48cc-b16d-bdb6ecb5942a" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/pygal/Testpygal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/协程/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/six/asyncioTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/six/asyncioTest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +53,13 @@
     <SUITE FILE_PATH="coverage/python$Unittests_in_jutilTest_py.coverage" NAME="Unittests in jutilTest.py Coverage Results" MODIFIED="1538106538462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three" />
     <SUITE FILE_PATH="coverage/python$chardetTest.coverage" NAME="chardetTest Coverage Results" MODIFIED="1538278097662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five" />
     <SUITE FILE_PATH="coverage/pyDemo$module.coverage" NAME="module Coverage Results" MODIFIED="1538030081547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two" />
-    <SUITE FILE_PATH="coverage/python$Testpygal.coverage" NAME="Testpygal Coverage Results" MODIFIED="1538820489125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygal" />
+    <SUITE FILE_PATH="coverage/python$Testpygal.coverage" NAME="Testpygal Coverage Results" MODIFIED="1538828058140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pygal" />
     <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1538105092970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three" />
     <SUITE FILE_PATH="coverage/python$SQLAlchemyTest.coverage" NAME="SQLAlchemyTest Coverage Results" MODIFIED="1538294271129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five/databases" />
+    <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1538963709061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/协程" />
     <SUITE FILE_PATH="coverage/pyDemo$partialFunc.coverage" NAME="partialFunc Coverage Results" MODIFIED="1538013305019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyDemo$diyClass.coverage" NAME="diyClass Coverage Results" MODIFIED="1538038851420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two" />
-    <SUITE FILE_PATH="coverage/python$asyncioTest.coverage" NAME="asyncioTest Coverage Results" MODIFIED="1538555634562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six" />
+    <SUITE FILE_PATH="coverage/python$asyncioTest.coverage" NAME="asyncioTest Coverage Results" MODIFIED="1538964022824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six" />
     <SUITE FILE_PATH="coverage/python$processpool.coverage" NAME="processpool Coverage Results" MODIFIED="1538184236073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three/thread" />
     <SUITE FILE_PATH="coverage/python$mysqlTest.coverage" NAME="mysqlTest Coverage Results" MODIFIED="1538292894040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/five/databases" />
     <SUITE FILE_PATH="coverage/python$regx.coverage" NAME="regx Coverage Results" MODIFIED="1538209595765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four" />
@@ -130,21 +132,21 @@
     <session id="271989019">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.8" value="3" />
+          <entry key="project.open.time.8" value="5" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="33" />
           <entry key="html" value="2" />
-          <entry key="py" value="16775" />
+          <entry key="py" value="17097" />
           <entry key="sql" value="21" />
           <entry key="threadTest" value="128" />
           <entry key="txt" value="6" />
@@ -154,7 +156,7 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="PLAIN_TEXT" value="167" />
-          <entry key="Python" value="16769" />
+          <entry key="Python" value="17091" />
           <entry key="SQL" value="6" />
           <entry key="Scratch" value="21" />
         </counts>
@@ -164,7 +166,7 @@
           <entry key="html" value="3" />
           <entry key="jpg" value="2" />
           <entry key="png" value="8" />
-          <entry key="py" value="62" />
+          <entry key="py" value="65" />
           <entry key="pyi" value="1" />
           <entry key="sql" value="3" />
           <entry key="svg" value="1" />
@@ -177,7 +179,7 @@
           <entry key="HTML" value="3" />
           <entry key="Image" value="10" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="62" />
+          <entry key="Python" value="65" />
           <entry key="PythonStub" value="1" />
           <entry key="SVG" value="1" />
           <entry key="Scratch" value="3" />
@@ -188,22 +190,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/six/aiohttpTest.py">
+        <entry file="file://$PROJECT_DIR$/协程/test1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="425">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
-                <element signature="e#0#14#0" expanded="true" />
+                <marker date="1538964017832" expanded="true" signature="25:30" ph="..." />
+                <marker date="1538964017832" expanded="true" signature="274:279" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pygal/Testpygal.py">
+        <entry file="file://$PROJECT_DIR$/six/asyncioTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state relative-caret-position="330">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -224,7 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/three/exception.py" />
         <option value="$PROJECT_DIR$/three/test.py" />
         <option value="$PROJECT_DIR$/three/jutilTest.py" />
         <option value="$PROJECT_DIR$/three/IOStream.py" />
@@ -272,9 +274,10 @@
         <option value="$PROJECT_DIR$/six/MVCTest.py" />
         <option value="$PROJECT_DIR$/six/CoroutineTest.py" />
         <option value="$PROJECT_DIR$/six/asyncioTest2.py" />
-        <option value="$PROJECT_DIR$/six/asyncioTest.py" />
         <option value="$PROJECT_DIR$/six/aiohttpTest.py" />
         <option value="$PROJECT_DIR$/pygal/Testpygal.py" />
+        <option value="$PROJECT_DIR$/协程/test1.py" />
+        <option value="$PROJECT_DIR$/six/asyncioTest.py" />
       </list>
     </option>
   </component>
@@ -326,7 +329,7 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="pygal" type="462c0819:PsiDirectoryNode" />
+              <item name="six" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -366,29 +369,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Testpygal">
-    <configuration name="CoroutineTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pyDemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/six" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/six/CoroutineTest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.asyncioTest">
     <configuration name="Testpygal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -477,20 +458,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pyDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/协程" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/协程/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.CoroutineTest" />
       <item itemvalue="Python.asyncioTest" />
       <item itemvalue="Python.asyncioTest2" />
       <item itemvalue="Python.aiohttpTest" />
       <item itemvalue="Python.Testpygal" />
+      <item itemvalue="Python.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.asyncioTest" />
+        <item itemvalue="Python.test1" />
         <item itemvalue="Python.Testpygal" />
         <item itemvalue="Python.aiohttpTest" />
-        <item itemvalue="Python.asyncioTest" />
         <item itemvalue="Python.asyncioTest2" />
-        <item itemvalue="Python.CoroutineTest" />
       </list>
     </recent_temporary>
   </component>
@@ -559,13 +562,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="27" width="1869" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17592083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18031886" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3469163" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3469163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38105726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -574,7 +578,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5187225" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5209251" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.32929516" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -630,13 +634,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/three/thread/threadTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/three/thread/processpool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -911,16 +908,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/six/asyncioTest.py">
+    <entry file="file://$PROJECT_DIR$/pygal/test01.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pygal/Testpygal.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="27" column="31" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/six/aiohttpTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
+        <state relative-caret-position="333">
           <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
@@ -928,13 +928,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pygal/test01.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pygal/Testpygal.py">
+    <entry file="file://$PROJECT_DIR$/协程/test1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="425">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <marker date="1538964017832" expanded="true" signature="25:30" ph="..." />
+            <marker date="1538964017832" expanded="true" signature="274:279" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/six/asyncioTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
