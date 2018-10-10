@@ -13,6 +13,10 @@ queue_queue = queue.Queue(5)
 queue_queue.put(11)
 queue_queue.put(22)
 queue_queue.put(33)
+queue_queue.put(44)
+queue_queue.put(55)
+# queue_queue.put(66)
+
 
 print(queue_queue.get())
 print(queue_queue.get())
