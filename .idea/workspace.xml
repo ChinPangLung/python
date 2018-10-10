@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8ab1790-88fa-48cc-b16d-bdb6ecb5942a" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/processTest/ProcessArray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processTest/ProcessLock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processTest/ProcessManager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processTest/ProcessPool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processTest/TestProcess.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/processTest/TestProcess2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thread/QueueTest/productorandconsumer.py" afterDir="false" />
+    <list default="true" id="d8ab1790-88fa-48cc-b16d-bdb6ecb5942a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread/QueueTest/TestQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/thread/QueueTest/TestQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processTest/TestProcess2.py" beforeDir="false" afterPath="$PROJECT_DIR$/processTest/TestProcess2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +17,7 @@
     <SUITE FILE_PATH="coverage/pyDemo$manyreturn.coverage" NAME="manyreturn Coverage Results" MODIFIED="1537939737503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$ProcessManager.coverage" NAME="ProcessManager Coverage Results" MODIFIED="1539136566894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
     <SUITE FILE_PATH="coverage/pyDemo$enum.coverage" NAME="enum Coverage Results" MODIFIED="1538040122241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/two" />
-    <SUITE FILE_PATH="coverage/python$ProcessPool.coverage" NAME="ProcessPool Coverage Results" MODIFIED="1539137288858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
+    <SUITE FILE_PATH="coverage/python$ProcessPool.coverage" NAME="ProcessPool Coverage Results" MODIFIED="1539138687100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
     <SUITE FILE_PATH="coverage/pyDemo$slice.coverage" NAME="slice Coverage Results" MODIFIED="1537942508801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyDemo$dict_set.coverage" NAME="dict_set Coverage Results" MODIFIED="1537929990800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/pyDemo$fact.coverage" NAME="fact Coverage Results" MODIFIED="1537941560024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -49,7 +42,7 @@
     <SUITE FILE_PATH="coverage/pyDemo$decorator.coverage" NAME="decorator Coverage Results" MODIFIED="1538012437629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$task_managers.coverage" NAME="task_managers Coverage Results" MODIFIED="1538206333926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/three/thread" />
     <SUITE FILE_PATH="coverage/python$structTest.coverage" NAME="structTest Coverage Results" MODIFIED="1538272889976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/four" />
-    <SUITE FILE_PATH="coverage/python$TestProcess2.coverage" NAME="TestProcess2 Coverage Results" MODIFIED="1539135340982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
+    <SUITE FILE_PATH="coverage/python$TestProcess2.coverage" NAME="TestProcess2 Coverage Results" MODIFIED="1539151427034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
     <SUITE FILE_PATH="coverage/python$flask.coverage" NAME="flask Coverage Results" MODIFIED="1538443947919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six" />
     <SUITE FILE_PATH="coverage/python$ProcessArray.coverage" NAME="ProcessArray Coverage Results" MODIFIED="1539136152960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/processTest" />
     <SUITE FILE_PATH="coverage/python$MVCTest.coverage" NAME="MVCTest Coverage Results" MODIFIED="1538445737913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/six" />
@@ -172,7 +165,7 @@
         <counts>
           <entry key="dummy" value="33" />
           <entry key="html" value="2" />
-          <entry key="py" value="19595" />
+          <entry key="py" value="19683" />
           <entry key="sql" value="21" />
           <entry key="threadTest" value="128" />
           <entry key="txt" value="6" />
@@ -182,7 +175,7 @@
         <counts>
           <entry key="HTML" value="2" />
           <entry key="PLAIN_TEXT" value="167" />
-          <entry key="Python" value="19589" />
+          <entry key="Python" value="19677" />
           <entry key="SQL" value="6" />
           <entry key="Scratch" value="21" />
         </counts>
@@ -228,13 +221,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/processTest/TestProcess2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="484">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
               <folding>
-                <marker date="1539135339754" expanded="true" signature="229:234" ph="..." />
+                <marker date="1539151426092" expanded="true" signature="229:234" ph="..." />
               </folding>
             </state>
           </provider>
@@ -280,14 +273,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processTest/ProcessPool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="359">
+              <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
               <folding>
                 <element signature="e#166#198#0" expanded="true" />
-                <marker date="1539137287870" expanded="true" signature="227:232" ph="..." />
+                <marker date="1539138686043" expanded="true" signature="237:242" ph="..." />
               </folding>
             </state>
           </provider>
@@ -355,11 +348,11 @@
         <option value="$PROJECT_DIR$/thread/QueueTest/productorandconsumer.py" />
         <option value="$PROJECT_DIR$/thread/QueueTest/ThreadPool.py" />
         <option value="$PROJECT_DIR$/pygal/TestProcess.py" />
-        <option value="$PROJECT_DIR$/processTest/TestProcess2.py" />
         <option value="$PROJECT_DIR$/processTest/ProcessArray.py" />
         <option value="$PROJECT_DIR$/processTest/ProcessManager.py" />
         <option value="$PROJECT_DIR$/processTest/ProcessLock.py" />
         <option value="$PROJECT_DIR$/processTest/ProcessPool.py" />
+        <option value="$PROJECT_DIR$/processTest/TestProcess2.py" />
       </list>
     </option>
   </component>
@@ -408,11 +401,6 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="processTest" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -452,7 +440,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ProcessPool">
+  <component name="RunManager" selected="Python.TestProcess2">
     <configuration name="ProcessArray" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="pyDemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -572,11 +560,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TestProcess2" />
         <item itemvalue="Python.ProcessPool" />
         <item itemvalue="Python.ProcessLock" />
         <item itemvalue="Python.ProcessManager" />
         <item itemvalue="Python.ProcessArray" />
-        <item itemvalue="Python.TestProcess2" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +642,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539077497140</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update">
+      <created>1539138484782</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1539138484782</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1539138864757</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539138864757</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -672,15 +674,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="189" width="1859" height="789" extended-state="0" />
+    <frame x="51" y="27" width="1869" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.38870057" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17372182" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32929516" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48913044" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3469163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.38105726" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1065,23 +1067,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processTest/TestProcess2.py">
+    <entry file="file://$PROJECT_DIR$/processTest/ProcessPool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="359">
+          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
           <folding>
-            <marker date="1539135339754" expanded="true" signature="229:234" ph="..." />
+            <element signature="e#166#198#0" expanded="true" />
+            <marker date="1539138686043" expanded="true" signature="237:242" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processTest/ProcessArray.py">
+    <entry file="file://$PROJECT_DIR$/processTest/ProcessLock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="154">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
           <folding>
-            <element signature="e#180#222#0" expanded="true" />
-            <marker date="1539136150814" expanded="true" signature="254:255" ph="..." />
+            <element signature="e#165#250#0" expanded="true" />
+            <marker date="1539137040653" expanded="true" signature="314:419" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1098,24 +1101,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processTest/ProcessLock.py">
+    <entry file="file://$PROJECT_DIR$/processTest/ProcessArray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        <state relative-caret-position="315">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
           <folding>
-            <element signature="e#165#250#0" expanded="true" />
-            <marker date="1539137040653" expanded="true" signature="314:419" ph="..." />
+            <element signature="e#180#222#0" expanded="true" />
+            <marker date="1539136150814" expanded="true" signature="254:255" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/processTest/ProcessPool.py">
+    <entry file="file://$PROJECT_DIR$/processTest/TestProcess2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="484">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
           <folding>
-            <element signature="e#166#198#0" expanded="true" />
-            <marker date="1539137287870" expanded="true" signature="227:232" ph="..." />
+            <marker date="1539151426092" expanded="true" signature="229:234" ph="..." />
           </folding>
         </state>
       </provider>

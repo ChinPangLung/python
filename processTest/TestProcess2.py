@@ -20,4 +20,5 @@ if __name__ == '__main__':
     for i in range(5):
         process = Process(target=foo, args=(i,))
         process.start()
+        process.join()
     print("the end list_1 is ", list_1)
